@@ -30,7 +30,7 @@ The dataset includes the following columns:
 - **Age and Salary Correlation:** Analyzed the relationship between age and salary using correlation and regression.
 
 ### 3. Visualizations
-- Bar charts, pie charts, and grouped bar plots were created to present key insights effectively.
+- Bar charts, pie charts, Heatmaps and grouped bar plots were created to present key insights effectively.
 - Scatter plots were used to visualize correlations between age and salary.
 
 ## Key Insights
